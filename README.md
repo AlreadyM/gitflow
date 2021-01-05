@@ -9,3 +9,5 @@ work with version control tool git
 
 新建分支开发独立功能，此内容只应出现在分支lch内
 进行内容变更的储存，提交，推送
+
+分支lch 内容应出现在main分支，lch分支不在存在
