@@ -15,6 +15,18 @@ work with version control tool git
 环境搭建准备：
 git 
     https://github.com/git-for-windows/git/releases/download/v2.30.0.windows.1/Git-2.30.0-32-bit.exe
+nodejs
+    https://nodejs.org/dist/v15.5.1/node-v15.5.1.pkg
+npm 包
+    vue 
+        npm install -g @vue/cli @vue/cli-service-global
+        vue create hello-world
+    react
+        npx create-react-app my-app
+        cd my-app
+        npm start
+
+
 vscode
     https://code.visualstudio.com/sha/download?build=insider&os=win32-x64-user
     auto close tag
