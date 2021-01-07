@@ -45,3 +45,5 @@ vscode
 koala
 Google Chrome   Firefox
 wechat 
+
+git rebase(变基) 练习 第一次更改储存，提交，不推送
